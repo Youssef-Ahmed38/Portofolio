@@ -27,7 +27,7 @@ const siteProps = {
   name: "Youssef Ahmed",
   title: "Machine Learning Engineer & Data Scintist",
   email: "youssefahmed3803@gmail.com",
-  gitHub: "github.com/Youssef-Ahmed38",
+  gitHub: "Youssef-Ahmed38",
   instagram: "youssef_ahmed_3803/",
   linkedIn: "youssef-ahmed-ramdan/",
   medium: "@joodintjr",
