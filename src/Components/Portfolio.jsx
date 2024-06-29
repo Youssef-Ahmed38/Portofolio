@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "Drousiness Detection App ",
     description:
-      "System app to detect the driver is awake or a sleep.",
+    "System app to detect the driver is awake or a sleep.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
   {
