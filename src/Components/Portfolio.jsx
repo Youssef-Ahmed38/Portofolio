@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Document Handilling Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AI system to Read , understant , analize and extract text from differant document images and extract text from it and apply also innitalize Key Information Extraction and Auto filling the text in gaps with prepared excel file ",
+    url: "https://github.com/Youssef-Ahmed38/Document_Handling",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Masked Faces Attendence App System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Attendance system with face recognation for masked and neqab faces and spoofing detection",
+    url: "https://github.com/Youssef-Ahmed38/Attendees-App-",
   },
   {
-    title: "My Resume Site",
+    title: "Drousiness Detection App ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "System app to detect the driver is awake or a sleep.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  {
+    title: "My Resume",
+    description:
+      "Feel Free to look at my Experince and Expertise and contact me to take a coffe if you're intrested in.",
+    url: "https://drive.google.com/file/d/1dd0o9ZW5KMbCJIIxKN0Er-357Q9v9hn1/view?usp=sharing",
   },
 ];
 
